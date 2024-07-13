@@ -19,7 +19,7 @@ const projects = [
         title: "Portfolio Website",
         description: "Built a professional and visually appealing portfolio website utilizing Next.js for server-side rendering, React for dynamic user interfaces, and Tailwind CSS for efficient styling and responsive design. The project showcases various personal and professional projects, with a focus on performance and user experience.",
         stack: [{name: "Next.js"},{name:"Tailwind CSS"}, {name: "React"}],
-        github: "",
+        github: "https://github.com/snapHH/sanket-pf",
         image: "/assets/work/portfolio.jpg"
     },
     {
@@ -29,7 +29,7 @@ const projects = [
         description: "An e-commerce platform for effortless online purchasing, utilizing HTML, CSS, and Javascript to ensure a user-friendly interface and necessary features like secure checkout, product browsing, and cart management",
         stack: [{name: "HTML"},{name:"CSS"}, {name: "Javascript"}],
         github: "https://github.com/snapHH/Ecovoid",
-        image: "/assets/work/logo.png"
+        image: "/assets/work/logo.jpg"
     },
     {
         num: "03",
