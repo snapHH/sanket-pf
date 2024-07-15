@@ -28,7 +28,7 @@ const Home = () => {
             <h1 className = "h1 mb-6">
               Hello I'm <br /> <span className = "text-accent">Sanket Hadap</span>
             </h1>
-            <p className = "max-w-[500px] mb-9 text-white/80">Seeking a challenging position in software development and data science to leverage my programming skills and analytical abilities. Eager to contribute to innovative projects, enhance system efficiencies, and support organizational growth through expertise in programming, data analysis, and advanced technologies. Looking forward to driving success in the industry. 
+            <p className = "max-w-[500px] mb-9 text-white/80">Seeking a challenging position in front-end development to leverage my expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. Eager to contribute to innovative projects, enhance user experiences, and support organizational growth through a keen eye for design, strong coding skills, and a passion for creating intuitive, responsive web applications. Looking forward to driving success in the tech industry by delivering high-quality, efficient, and visually appealing solutions. 
             </p>
             {/* btn and socials  */}
             <div className = "flex flex-col xl:flex-row items-center gap-2 ">
