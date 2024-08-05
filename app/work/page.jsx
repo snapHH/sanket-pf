@@ -49,6 +49,15 @@ const projects = [
         github: "https://github.com/snapHH/ShooterGame",
         image: "/assets/work/2dshootergame.jpg"
     },
+    {
+        num: "05",
+        category: "Website",
+        title: "Apple clone Website",
+        description: "A clone Website of Apple which have 3D user interface create with ViteJS, ThreeJS and React and languages used are Javascript, HTML, CSS.",
+        stack: [{name: "Javascript"},{name:"HTML"}, {name: "CSS"}, {name: "Vite.js"}, {name: "Three.js"}, {name: "React"}],
+        github: "https://github.com/snapHH/Apple-clone.git",
+        image:"/assets/work/Appleclone.jpg",
+    },
 
 ]
 const Work = () => {
@@ -104,7 +113,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className = "w-full xl:w-[50%]">
-                        <Swiper spaceBetween = {40} slidesPerView={1} className = "xl:h-[520px] mb-12" onSlideChange = {handleSlideChange}>
+                        <Swiper spaceBetween = {50} slidesPerView={1} className = "xl:h-[520px] mb-12" onSlideChange = {handleSlideChange}>
                             {projects.map((project, index)=>{
                                 return <SwiperSlide key = {index}>
                                     <div className = "h-[460px] relative group flex justify-center items-center bg-pink-50/20">
