@@ -56,7 +56,7 @@ const about = {
 const education = {
     icon: "/assets/resume/cap.svg",
     title: "My Education",
-    description: "Recent MCA graduate from Mumbai University, seeking a challenging position in the field of software development and data science where I can leverage my strong programming skills, analytical abilities, and passion for technology. Eager to contribute to innovative projects, enhance system efficiencies, and support organizational growth through expertise in programming languages, data analysis, and advanced technologies. Looking forward to applying my knowledge to drive success in the industry." ,
+    description: "Recent MCA graduate from Mumbai University, seeking a challenging position in the field of software development and Frontend Development where I can leverage my strong programming skills, analytical abilities, and passion for technology. Eager to contribute to innovative projects, enhance system efficiencies, and support organizational growth through expertise in programming languages, data analysis, and advanced technologies. Looking forward to applying my knowledge to drive success in the industry." ,
     items: [
         {
             institution: "University Of Mumbai",
